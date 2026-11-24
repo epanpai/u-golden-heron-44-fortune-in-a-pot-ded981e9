@@ -1,2 +1,8 @@
 out/
 node_modules/
+kit/
+kit.tgz
+kit.tar.gz
+competition.json
+transcripts.tar.gz
+submit/
